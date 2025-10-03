@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/Majid-Mj/Leetcode/tree/master/2507-number-of-common-factors) |
+## String
+|  |
+| ------- |
+| [1205-defanging-an-ip-address](https://github.com/Majid-Mj/Leetcode/tree/master/1205-defanging-an-ip-address) |
 <!---LeetCode Topics End-->
