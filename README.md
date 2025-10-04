@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Majid-Mj/Leetcode/tree/master/0001-two-sum) |
+| [3226-minimum-number-game](https://github.com/Majid-Mj/Leetcode/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1205-defanging-an-ip-address](https://github.com/Majid-Mj/Leetcode/tree/master/1205-defanging-an-ip-address) |
+## Sorting
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/Majid-Mj/Leetcode/tree/master/3226-minimum-number-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/Majid-Mj/Leetcode/tree/master/3226-minimum-number-game) |
+## Simulation
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/Majid-Mj/Leetcode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
