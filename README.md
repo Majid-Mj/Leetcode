@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Majid-Mj/Leetcode/tree/master/0001-two-sum) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Majid-Mj/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3226-minimum-number-game](https://github.com/Majid-Mj/Leetcode/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Majid-Mj/Leetcode/tree/master/0009-palindrome-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Majid-Mj/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2507-number-of-common-factors](https://github.com/Majid-Mj/Leetcode/tree/master/2507-number-of-common-factors) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Majid-Mj/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Enumeration
 |  |
 | ------- |
