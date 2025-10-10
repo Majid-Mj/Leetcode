@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Majid-Mj/Leetcode/tree/master/0009-palindrome-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Majid-Mj/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Majid-Mj/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2507-number-of-common-factors](https://github.com/Majid-Mj/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Majid-Mj/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Enumeration
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Majid-Mj/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Majid-Mj/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3226-minimum-number-game](https://github.com/Majid-Mj/Leetcode/tree/master/3226-minimum-number-game) |
 ## Counting
 |  |
