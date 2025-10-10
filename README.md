@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/Majid-Mj/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2507-number-of-common-factors](https://github.com/Majid-Mj/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Majid-Mj/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3371-harshad-number](https://github.com/Majid-Mj/Leetcode/tree/master/3371-harshad-number) |
 ## Enumeration
 |  |
 | ------- |
