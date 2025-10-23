@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Majid-Mj/Leetcode/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/Majid-Mj/Leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Majid-Mj/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Majid-Mj/Leetcode/tree/master/0507-perfect-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Majid-Mj/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Majid-Mj/Leetcode/tree/master/0258-add-digits) |
 | [2507-number-of-common-factors](https://github.com/Majid-Mj/Leetcode/tree/master/2507-number-of-common-factors) |
 ## String
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Majid-Mj/Leetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Majid-Mj/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Majid-Mj/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3226-minimum-number-game](https://github.com/Majid-Mj/Leetcode/tree/master/3226-minimum-number-game) |
