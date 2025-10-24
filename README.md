@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Majid-Mj/Leetcode/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Majid-Mj/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Majid-Mj/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Majid-Mj/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Majid-Mj/Leetcode/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/Majid-Mj/Leetcode/tree/master/1205-defanging-an-ip-address) |
@@ -59,9 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Majid-Mj/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3019-furthest-point-from-origin](https://github.com/Majid-Mj/Leetcode/tree/master/3019-furthest-point-from-origin) |
 ## Binary Search
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Majid-Mj/Leetcode/tree/master/0367-valid-perfect-square) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Majid-Mj/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
