@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Majid-Mj/Leetcode/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Majid-Mj/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Majid-Mj/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Majid-Mj/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Majid-Mj/Leetcode/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/Majid-Mj/Leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Majid-Mj/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3019-furthest-point-from-origin](https://github.com/Majid-Mj/Leetcode/tree/master/3019-furthest-point-from-origin) |
 ## Sorting
 |  |
