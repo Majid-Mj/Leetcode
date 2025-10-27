@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Majid-Mj/Leetcode/tree/master/0001-two-sum) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Majid-Mj/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Majid-Mj/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3226-minimum-number-game](https://github.com/Majid-Mj/Leetcode/tree/master/3226-minimum-number-game) |
 ## Hash Table
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Majid-Mj/Leetcode/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/Majid-Mj/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Majid-Mj/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Majid-Mj/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3019-furthest-point-from-origin](https://github.com/Majid-Mj/Leetcode/tree/master/3019-furthest-point-from-origin) |
 ## Sorting
 |  |
