@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Majid-Mj/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Majid-Mj/Leetcode/tree/master/0507-perfect-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Majid-Mj/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2235-add-two-integers](https://github.com/Majid-Mj/Leetcode/tree/master/2235-add-two-integers) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Majid-Mj/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2507-number-of-common-factors](https://github.com/Majid-Mj/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Majid-Mj/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
